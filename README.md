@@ -1,4 +1,4 @@
-# FSM-Design-Edge-Detector
+# FSM-Based-Edge-Detector
 - In this project we have designed an FSM based Edge Detector. The purpose of the positive edge detector is to detect a 0 to 1 transition on input a. There are two conditions that must be met to detect a 0 to 1 transition on a. 
 - A sequential circuit is a circuit with memory. A Finite State Machine (FSM) is a mathematical model of the sequential circuit with discrete inputs, discrete outputs and a finite number of internal configurations or states. The state of a system completely summarizes the information concerning the past inputs to the system that is needed to determine its behavior on subsequent inputs.
 - The FSM approach to sequential system design is a straightforward generic approach that allows any sequential system to be designed.
