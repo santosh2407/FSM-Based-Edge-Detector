@@ -1,1 +1,1 @@
-# FSM-Design-Mealy-and-Moore-Machine-Edge-Detector-
+# FSM-Design-Mealy-and-Moore-Machine-Edge-Detector
